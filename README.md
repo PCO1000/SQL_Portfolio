@@ -1,2 +1,2 @@
 # SQL_Portfolio
-This is compilation of my SQL projects. 
+This is a compilation of my SQL projects. 
